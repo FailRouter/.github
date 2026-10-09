@@ -32,6 +32,12 @@ Then walk the [3D hall](https://failrouter.com/hall/), where every exhibit hangs
 ## Repositories
 
 <!-- SHOWCASE:REPOS:START -->
+<sub>⭐ 0 stars across 2 open-source projects</sub>
+
+| Project | What it does | Stack | Stars |
+|:--|:--|:--|:--|
+| [**.github**](https://github.com/FailRouter/.github) · [live ↗](https://failrouter.com) | FailRouter organization profile: the Museum of Failed Routes, famous outages told hop by hop | — | [![Stars of FailRouter/.github](https://img.shields.io/github/stars/FailRouter/.github?style=social)](https://github.com/FailRouter/.github/stargazers) |
+| [**failrouter**](https://github.com/FailRouter/failrouter) · [live ↗](https://failrouter.com) | Museum of Failed Routes: famous outages, told hop by hop. | HTML | [![Stars of FailRouter/failrouter](https://img.shields.io/github/stars/FailRouter/failrouter?style=social)](https://github.com/FailRouter/failrouter/stargazers) |
 <!-- SHOWCASE:REPOS:END -->
 
 ## Commit activity
@@ -61,6 +67,12 @@ Then walk the [3D hall](https://failrouter.com/hall/), where every exhibit hangs
 ## Recent activity
 
 <!-- SHOWCASE:ACTIVITY:START -->
+1. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+2. ✅ Merged [#9](https://github.com/FailRouter/failrouter/pull/9) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+3. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+4. ⬆️ Pushed to `feat/hall-sculpture-colors` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+5. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+6. 🔀 Opened [#9](https://github.com/FailRouter/failrouter/pull/9) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Add an outage
