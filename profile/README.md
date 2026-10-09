@@ -32,11 +32,8 @@ Then walk the [3D hall](https://failrouter.com/hall/), where every exhibit hangs
 ## Repositories
 
 <!-- SHOWCASE:REPOS:START -->
-<sub>⭐ 0 stars across 2 open-source projects</sub>
-
 | Project | What it does | Stack | Stars |
 |:--|:--|:--|:--|
-| [**.github**](https://github.com/FailRouter/.github) · [live ↗](https://failrouter.com) | FailRouter organization profile: the Museum of Failed Routes, famous outages told hop by hop | — | [![Stars of FailRouter/.github](https://img.shields.io/github/stars/FailRouter/.github?style=social)](https://github.com/FailRouter/.github/stargazers) |
 | [**failrouter**](https://github.com/FailRouter/failrouter) · [live ↗](https://failrouter.com) | Museum of Failed Routes: famous outages, told hop by hop. | HTML | [![Stars of FailRouter/failrouter](https://img.shields.io/github/stars/FailRouter/failrouter?style=social)](https://github.com/FailRouter/failrouter/stargazers) |
 <!-- SHOWCASE:REPOS:END -->
 
@@ -68,11 +65,11 @@ Then walk the [3D hall](https://failrouter.com/hall/), where every exhibit hangs
 
 <!-- SHOWCASE:ACTIVITY:START -->
 1. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
-2. ✅ Merged [#9](https://github.com/FailRouter/failrouter/pull/9) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
-3. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
-4. ⬆️ Pushed to `feat/hall-sculpture-colors` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
-5. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
-6. 🔀 Opened [#9](https://github.com/FailRouter/failrouter/pull/9) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+2. ✅ Merged [#9 site: impact sculpture fills red from the bottom, brass top ring, room…](https://github.com/FailRouter/failrouter/pull/9) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+3. ✅ Merged [#8 site: 3D hall controls: tap the floor to walk, grab-to-look drag,…](https://github.com/FailRouter/failrouter/pull/8) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+4. ✅ Merged [#7 site: 3D hall with map and corridors, new icon, slogan and site bar](https://github.com/FailRouter/failrouter/pull/7) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+5. ✅ Merged [#6 ci: workers.dev is public, previews stay behind Access; fail on an…](https://github.com/FailRouter/failrouter/pull/6) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
+6. ✅ Merged [#5 ci: keep workers.dev on for the smoke test; exhibits: Knight loss per…](https://github.com/FailRouter/failrouter/pull/5) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Add an outage
