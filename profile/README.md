@@ -32,9 +32,9 @@ Then walk the [3D hall](https://failrouter.com/hall/), where every exhibit hangs
 ## Repositories
 
 <!-- SHOWCASE:REPOS:START -->
-| Project | What it does | Stack | Stars |
+| Project | What it does | Stack | ⭐ |
 |:--|:--|:--|:--|
-| [**failrouter**](https://github.com/FailRouter/failrouter) · [live ↗](https://failrouter.com) | Museum of Failed Routes: famous outages, told hop by hop. | HTML | [![Stars of FailRouter/failrouter](https://img.shields.io/github/stars/FailRouter/failrouter?style=social)](https://github.com/FailRouter/failrouter/stargazers) |
+| [**failrouter**](https://github.com/FailRouter/failrouter) · [live ↗](https://failrouter.com) | Museum of Failed Routes: famous outages, told hop by hop. | HTML | [![Star FailRouter/failrouter on GitHub](https://img.shields.io/badge/Star-on_GitHub-white?style=social&logo=github)](https://github.com/FailRouter/failrouter) |
 <!-- SHOWCASE:REPOS:END -->
 
 ## Commit activity
