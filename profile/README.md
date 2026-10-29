@@ -51,8 +51,6 @@ Then walk the [3D hall](https://failrouter.com/hall/), where every exhibit hangs
 2. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-10</sub>
 3. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-09</sub>
 4. ✅ Merged [#10 README: project activity charts (snake, heatmap, 3D)](https://github.com/FailRouter/failrouter/pull/10) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-09</sub>
-5. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
-6. ✅ Merged [#9 site: impact sculpture fills red from the bottom, brass top ring, room…](https://github.com/FailRouter/failrouter/pull/9) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-09-28</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Add an outage
