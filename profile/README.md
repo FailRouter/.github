@@ -49,7 +49,6 @@ Then walk the [3D hall](https://failrouter.com/hall/), where every exhibit hangs
 <!-- SHOWCASE:ACTIVITY:START -->
 1. ✅ Merged [#11 docs: one activity chart instead of three; CI and last-commit badges](https://github.com/FailRouter/failrouter/pull/11) in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-10</sub>
 2. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-10</sub>
-3. ⬆️ Pushed to `main` in [failrouter](https://github.com/FailRouter/failrouter) · <sub>2026-10-09</sub>
 <!-- SHOWCASE:ACTIVITY:END -->
 
 ## Add an outage
